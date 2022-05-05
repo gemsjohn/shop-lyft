@@ -58,4 +58,4 @@ Refer to the [Walkthrough Demonstration Video](https://github.com/gemsjohn/shop-
 - Sequelize
 
 ## Images
-![Example Image]()
+![Example Image](https://github.com/gemsjohn/shop-lyft/blob/main/assets/insomnia-screenshot.png)
